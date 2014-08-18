@@ -3,8 +3,8 @@
   :url "https://github.com/jkk/verily"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.5.1"]
-                 [org.clojure/clojurescript "0.0-1843"]]
+  :dependencies [[org.clojure/clojure "1.6.0"]
+                 [org.clojure/clojurescript "0.0-2311"]]
   :source-paths ["src/cljx"]
   :test-paths ["target/test-classes"]
   :cljx {:builds [{:source-paths ["src/cljx"]
